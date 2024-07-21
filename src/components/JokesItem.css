@@ -1,0 +1,8 @@
+.jokesItemWrapper {
+    padding: 1rem;
+    color: white;
+    background-color: #1864ab;
+   }
+   .jokesItemWrapper:not(:last-child) {
+    margin-bottom: 1rem;
+   }

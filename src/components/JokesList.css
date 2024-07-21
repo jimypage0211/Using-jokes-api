@@ -1,0 +1,13 @@
+jokesListWrapper {
+    margin: 2rem auto 0;
+    background-color: #a5d8ff;
+    max-width: 60vw;
+    list-style: none;
+    padding: 2rem;
+    box-sizing: border-box;
+   }
+   @media only screen and (max-width: 1200px) {
+    .jokesListWrapper {
+    max-width: 90vw;
+    }
+   }
